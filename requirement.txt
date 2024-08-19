@@ -1,0 +1,34 @@
+langchain==0.2.14
+langchain-core==0.2.30
+packaging==23.1
+streamlit==1.37.1
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+duckdb
+pandas
+openai
+langchain-groq
+duckduckgo_search==5.3.1b1
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface_hub
+langserve==0.2.2  # Adjust this if needed to match Python version
+torch==2.3.0  # Adjust this version if necessary
+torchaudio==2.3.0+cpu
